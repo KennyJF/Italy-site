@@ -1,0 +1,58 @@
+body {
+    margin: 0%;
+}
+
+body {
+    background-image: url(images/flag.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-color: aquamarine;
+
+}
+
+h1 {
+    color: darkcyan;
+    text-align: center;
+}
+
+p {
+    border: black;
+    text-align: center;
+    font-size: 24px;
+}
+
+ul {
+    border: 5px dotted;
+
+
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    padding-left: 0%;
+    text-align: center;
+}
+
+ul li {
+    border: 3px outset;
+    display: inline-block;
+    
+}
+
+img {
+    display: block;
+    width: 50%;
+    border: inset;
+}
+#first {
+
+}
+
+#second {
+    margin: auto;
+}
+
+#third {
+    margin-left: 50%;
+}
+
