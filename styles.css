@@ -7,13 +7,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
-    background-color: aquamarine;
+    background-color: aliceblue;
 
 }
 
 h1 {
     color: darkcyan;
     text-align: center;
+    font-size: 64px;
 }
 
 p {
@@ -43,9 +44,10 @@ img {
     display: block;
     width: 50%;
     border: inset;
+    margin: auto;
 }
 #first {
-
+    margin-right: 100%;
 }
 
 #second {
